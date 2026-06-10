@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "id": "ff-r-001",
+    "grade_min": 1,
+    "grade_max": 8,
+    "emoji": "🐝",
+    "en": "Honeybees can count up to four — making them one of the few animals with a sense of numbers!",
+    "ar": "نحل العسل يستطيع العد حتى أربعة — مما يجعله من القلائل الذين لديهم حس بالأعداد!",
+    "source": "Nature journal, 2019"
+  },
+  {
+    "id": "ff-r-002",
+    "grade_min": 3,
+    "grade_max": 8,
+    "emoji": "🌀",
+    "en": "The Fibonacci sequence appears in sunflower seeds, pinecones, and spiral galaxies — nature loves this pattern!",
+    "ar": "متتالية فيبوناتشي تظهر في بذور عباد الشمس وأقماع الصنوبر والمجرات اللولبية — الطبيعة تحب هذا النمط!",
+    "source": "Mathematical patterns in nature"
+  },
+  {
+    "id": "ff-r-003",
+    "grade_min": 1,
+    "grade_max": 5,
+    "emoji": "🦈",
+    "en": "A shark is older than trees — sharks existed 200 million years before the first tree appeared on Earth!",
+    "ar": "أسماك القرش أقدم من الأشجار — وُجدت قبل 200 مليون سنة من ظهور أول شجرة على الأرض!",
+    "source": "Paleontology records"
+  },
+  {
+    "id": "ff-r-004",
+    "grade_min": 4,
+    "grade_max": 8,
+    "emoji": "🔭",
+    "en": "There are more stars in the universe than grains of sand on all of Earth's beaches combined.",
+    "ar": "عدد النجوم في الكون أكثر من حبات الرمال على جميع شواطئ الأرض مجتمعةً.",
+    "source": "NASA"
+  },
+  {
+    "id": "ff-r-005",
+    "grade_min": 2,
+    "grade_max": 8,
+    "emoji": "🏆",
+    "en": "The IB programme is taught in over 150 countries — you are part of a global community of learners!",
+    "ar": "يُدرَّس برنامج IB في أكثر من 150 دولة — أنت جزء من مجتمع عالمي من المتعلمين!",
+    "source": "International Baccalaureate Organization"
+  }
+]
