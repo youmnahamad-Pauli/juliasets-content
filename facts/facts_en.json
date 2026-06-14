@@ -1,48 +1,669 @@
 [
   {
-    "id": "ff-r-001",
-    "grade_min": 1,
-    "grade_max": 8,
-    "emoji": "🐝",
-    "en": "Honeybees can count up to four — making them one of the few animals with a sense of numbers!",
-    "ar": "نحل العسل يستطيع العد حتى أربعة — مما يجعله من القلائل الذين لديهم حس بالأعداد!",
-    "source": "Nature journal, 2019"
+    "id": "w001",
+    "week": 1,
+    "text": "Zero is the only number that can't be represented in Roman numerals. The Romans had no symbol for nothing!",
+    "tag": "number_sense",
+    "grades": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
   },
   {
-    "id": "ff-r-002",
-    "grade_min": 3,
-    "grade_max": 8,
-    "emoji": "🌀",
-    "en": "The Fibonacci sequence appears in sunflower seeds, pinecones, and spiral galaxies — nature loves this pattern!",
-    "ar": "متتالية فيبوناتشي تظهر في بذور عباد الشمس وأقماع الصنوبر والمجرات اللولبية — الطبيعة تحب هذا النمط!",
-    "source": "Mathematical patterns in nature"
+    "id": "w002",
+    "week": 2,
+    "text": "A pizza is a real-life fraction! When you cut it into 8 equal slices and eat 3, you've eaten 3/8 of the pizza.",
+    "tag": "fractions",
+    "grades": [
+      2,
+      3,
+      4,
+      5
+    ]
   },
   {
-    "id": "ff-r-003",
-    "grade_min": 1,
-    "grade_max": 5,
-    "emoji": "🦈",
-    "en": "A shark is older than trees — sharks existed 200 million years before the first tree appeared on Earth!",
-    "ar": "أسماك القرش أقدم من الأشجار — وُجدت قبل 200 مليون سنة من ظهور أول شجرة على الأرض!",
-    "source": "Paleontology records"
+    "id": "w003",
+    "week": 3,
+    "text": "The word 'mathematics' comes from the Greek word 'mathema', meaning 'knowledge' or 'learning'.",
+    "tag": "history",
+    "grades": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
   },
   {
-    "id": "ff-r-004",
-    "grade_min": 4,
-    "grade_max": 8,
-    "emoji": "🔭",
-    "en": "There are more stars in the universe than grains of sand on all of Earth's beaches combined.",
-    "ar": "عدد النجوم في الكون أكثر من حبات الرمال على جميع شواطئ الأرض مجتمعةً.",
-    "source": "NASA"
+    "id": "w004",
+    "week": 4,
+    "text": "A googol is the number 1 followed by 100 zeros. It's bigger than the number of atoms in the observable universe!",
+    "tag": "number_sense",
+    "grades": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
   },
   {
-    "id": "ff-r-005",
-    "grade_min": 2,
-    "grade_max": 8,
-    "emoji": "🏆",
-    "en": "The IB programme is taught in over 150 countries — you are part of a global community of learners!",
-    "ar": "يُدرَّس برنامج IB في أكثر من 150 دولة — أنت جزء من مجتمع عالمي من المتعلمين!",
-    "source": "International Baccalaureate Organization"
+    "id": "w005",
+    "week": 5,
+    "text": "Honeybees build their honeycombs in perfect hexagons. This shape uses the least amount of wax to store the most honey — nature loves efficient geometry!",
+    "tag": "geometry",
+    "grades": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": "w006",
+    "week": 6,
+    "text": "If you fold a piece of paper in half 42 times, the stack would reach from Earth to the Moon!",
+    "tag": "multiplication",
+    "grades": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": "w007",
+    "week": 7,
+    "text": "The number 12 is called a 'highly composite number' because it has more divisors than any smaller number: 1, 2, 3, 4, 6, and 12.",
+    "tag": "factors",
+    "grades": [
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "id": "w008",
+    "week": 8,
+    "text": "In ancient Egypt, fractions always had 1 as the numerator (like 1/2, 1/3, 1/5). They would write 3/4 as 1/2 + 1/4!",
+    "tag": "fractions",
+    "grades": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": "w009",
+    "week": 9,
+    "text": "A century is 100 years, a millennium is 1,000 years, and a megayear is 1,000,000 years. Geologists use megayears to measure Earth's history!",
+    "tag": "number_sense",
+    "grades": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "id": "w010",
+    "week": 10,
+    "text": "The Fibonacci sequence (1, 1, 2, 3, 5, 8, 13…) appears in sunflower seeds, pinecones, and even the spiral of a galaxy.",
+    "tag": "patterns",
+    "grades": [
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": "w011",
+    "week": 11,
+    "text": "Multiplication is just fast addition! 6 × 4 means adding 6 four times: 6+6+6+6 = 24.",
+    "tag": "multiplication",
+    "grades": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "w012",
+    "week": 12,
+    "text": "The symbol % means 'per hundred'. So 35% simply means 35 out of every 100.",
+    "tag": "percentages",
+    "grades": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": "w013",
+    "week": 13,
+    "text": "A prime number has exactly two factors: 1 and itself. The number 2 is the only even prime number!",
+    "tag": "factors",
+    "grades": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": "w014",
+    "week": 14,
+    "text": "The Arabic numeral system (0–9) that we use today was actually invented in India over 1,500 years ago!",
+    "tag": "history",
+    "grades": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": "w015",
+    "week": 15,
+    "text": "Pi (π) is approximately 3.14159… and its digits go on forever without repeating. Mathematicians have calculated over 100 trillion digits of pi!",
+    "tag": "decimals",
+    "grades": [
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": "w016",
+    "week": 16,
+    "text": "Doubling a number is the same as multiplying by 2. If you keep doubling from 1, after just 20 doublings you pass 1 million!",
+    "tag": "multiplication",
+    "grades": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "id": "w017",
+    "week": 17,
+    "text": "The equals sign (=) was invented by Welsh mathematician Robert Recorde in 1557. He chose two parallel lines because 'no two things can be more equal'.",
+    "tag": "history",
+    "grades": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": "w018",
+    "week": 18,
+    "text": "A negative number below zero can describe real things — like temperatures in winter, floors below ground in a building, or a bank account that's overdrawn.",
+    "tag": "integers",
+    "grades": [
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": "w019",
+    "week": 19,
+    "text": "Rounding makes mental math much easier. 198 + 203 is tricky, but 200 + 200 = 400 is instant — then you adjust by −2 + 3 = +1, so the answer is 401!",
+    "tag": "rounding",
+    "grades": [
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "id": "w020",
+    "week": 20,
+    "text": "The tallest building in the world, Burj Khalifa in Dubai, is 828 metres tall. If you rounded that to the nearest 100, you'd say it's about 800 metres.",
+    "tag": "rounding",
+    "grades": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": "w021",
+    "week": 21,
+    "text": "Skip counting by 2s gives you all the even numbers. Every even number can be split into two equal groups — that's what 'even' means!",
+    "tag": "skip_counting",
+    "grades": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "w022",
+    "week": 22,
+    "text": "A ratio compares two quantities. In a class with 12 girls and 8 boys, the ratio of girls to boys is 12:8, which simplifies to 3:2.",
+    "tag": "ratio",
+    "grades": [
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": "w023",
+    "week": 23,
+    "text": "The word 'decimal' comes from the Latin 'decimus', meaning tenth. Every decimal place is a tenth of the one before it.",
+    "tag": "decimals",
+    "grades": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": "w024",
+    "week": 24,
+    "text": "Ancient Babylonians used a number system based on 60 — that's why we have 60 seconds in a minute and 60 minutes in an hour!",
+    "tag": "history",
+    "grades": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": "w025",
+    "week": 25,
+    "text": "Multiplying any number by 9 has a cool trick: the digits of the answer always add up to 9. Try 9×7=63, and 6+3=9!",
+    "tag": "multiplication",
+    "grades": [
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "id": "w026",
+    "week": 26,
+    "text": "A square number is a number multiplied by itself. 4, 9, 16, 25, 36… they form a beautiful pattern on a times table grid.",
+    "tag": "multiplication",
+    "grades": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": "w027",
+    "week": 27,
+    "text": "The fastest mental math trick for multiplying by 5: multiply by 10 first, then halve the result. 5×18 = half of 180 = 90!",
+    "tag": "multiplication",
+    "grades": [
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "id": "w028",
+    "week": 28,
+    "text": "Algebra uses letters to stand for unknown numbers — just like a mystery box. Solving x + 5 = 12 means asking: what number plus 5 equals 12?",
+    "tag": "algebra",
+    "grades": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": "w029",
+    "week": 29,
+    "text": "Division is the opposite of multiplication. If 4 × 6 = 24, then 24 ÷ 6 = 4. Learning one fact gives you two!",
+    "tag": "division",
+    "grades": [
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "id": "w030",
+    "week": 30,
+    "text": "The percentage 100% means the whole thing. 50% is half, 25% is a quarter, and 1% is one hundredth of the whole.",
+    "tag": "percentages",
+    "grades": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": "w031",
+    "week": 31,
+    "text": "The number 1,000,000 (one million) written out in seconds is about 11.5 days. One billion seconds is over 31 years!",
+    "tag": "number_sense",
+    "grades": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": "w032",
+    "week": 32,
+    "text": "Symmetry is everywhere in nature. A butterfly's wings, a starfish, and a snowflake all have lines of symmetry.",
+    "tag": "geometry",
+    "grades": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "id": "w033",
+    "week": 33,
+    "text": "To find 10% of any number, simply move the decimal point one place to the left. 10% of 350 is 35.0!",
+    "tag": "percentages",
+    "grades": [
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": "w034",
+    "week": 34,
+    "text": "Odd numbers always end in 1, 3, 5, 7, or 9. Even numbers always end in 0, 2, 4, 6, or 8. No exceptions!",
+    "tag": "odd_even",
+    "grades": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "w035",
+    "week": 35,
+    "text": "The area model shows multiplication as a rectangle. 23 × 14 becomes a rectangle split into smaller parts: 20×10 + 20×4 + 3×10 + 3×4.",
+    "tag": "multiplication",
+    "grades": [
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "id": "w036",
+    "week": 36,
+    "text": "A magic square has numbers arranged so every row, column, and diagonal adds up to the same total. The oldest known magic square is from China, over 4,000 years old!",
+    "tag": "addition",
+    "grades": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": "w037",
+    "week": 37,
+    "text": "Subtracting is like climbing down a ladder. If you're on rung 15 and go down 7, you land on rung 8. 15 − 7 = 8.",
+    "tag": "subtraction",
+    "grades": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "w038",
+    "week": 38,
+    "text": "Every fraction can be written as a decimal. 1/4 = 0.25, 1/2 = 0.5, 3/4 = 0.75. They're just different ways to write the same number!",
+    "tag": "fractions",
+    "grades": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": "w039",
+    "week": 39,
+    "text": "The world uses the metric system for measurement — metres, kilograms, litres. It's all based on powers of 10, making conversion a matter of moving the decimal point.",
+    "tag": "decimals",
+    "grades": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": "w040",
+    "week": 40,
+    "text": "There are 86,400 seconds in a day. That's 60 × 60 × 24. Every day is a multiplication problem!",
+    "tag": "multiplication",
+    "grades": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": "w041",
+    "week": 41,
+    "text": "A ratio of 1:1 means equal amounts of two things. A 2:1 ratio means twice as much of the first thing as the second.",
+    "tag": "ratio",
+    "grades": [
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": "w042",
+    "week": 42,
+    "text": "The Vedic method of multiplication is over 2,500 years old, from ancient India. It uses cross-multiplication patterns that can multiply faster than a calculator!",
+    "tag": "multiplication",
+    "grades": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": "w043",
+    "week": 43,
+    "text": "The number line goes on forever in both directions. Negative numbers go left, positive numbers go right, and zero sits right in the middle.",
+    "tag": "integers",
+    "grades": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": "w044",
+    "week": 44,
+    "text": "Counting on your fingers isn't just for babies! Even professional mathematicians use physical objects to think through tricky problems.",
+    "tag": "addition",
+    "grades": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": "w045",
+    "week": 45,
+    "text": "The LCM (Lowest Common Multiple) of two numbers is the smallest number both divide into evenly. It's used when adding fractions with different denominators!",
+    "tag": "factors",
+    "grades": [
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": "w046",
+    "week": 46,
+    "text": "Scientific notation is a short way to write very big or very small numbers. The mass of Earth is 5.97 × 10²⁴ kg — much easier than writing 26 zeros!",
+    "tag": "scientific_notation",
+    "grades": [
+      7,
+      8
+    ]
+  },
+  {
+    "id": "w047",
+    "week": 47,
+    "text": "To multiply a number by 11, add its two digits together and place the sum in the middle. 11 × 36: 3+6=9, so the answer is 396!",
+    "tag": "multiplication",
+    "grades": [
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "id": "w048",
+    "week": 48,
+    "text": "The word 'percent' literally means 'per hundred' in Latin. Discounts, exam scores, and bank interest are all measured in percentages.",
+    "tag": "percentages",
+    "grades": [
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": "w049",
+    "week": 49,
+    "text": "Every whole number is a fraction! 7 is the same as 7/1. Fractions are just a way of showing division.",
+    "tag": "fractions",
+    "grades": [
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "id": "w050",
+    "week": 50,
+    "text": "The number 0 was a revolutionary invention. For thousands of years humans did maths without it. Ancient Greeks and Romans had no symbol for zero at all!",
+    "tag": "history",
+    "grades": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": "w051",
+    "week": 51,
+    "text": "Skip counting by 3s gives you the 3 times table. If the digits of a number add up to a multiple of 3, that number is divisible by 3!",
+    "tag": "skip_counting",
+    "grades": [
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "id": "w052",
+    "week": 52,
+    "text": "Maths is the only language shared by all people in the world. 2 + 2 = 4 in every country, every culture, and every century.",
+    "tag": "history",
+    "grades": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
   }
 ]
-
