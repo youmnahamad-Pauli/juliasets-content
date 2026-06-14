@@ -1,12 +1,12 @@
 {
-  "version": 1,
-  "problem_files": [
-    "problems/grade4_week1.json",
-    "problems/grade5_week1.json",
-    "problems/grade6_week1.json",
-    "problems/grade7_week1.json",
-    "problems/grade8_week1.json"
-  ],
-  "facts_en": "facts/facts_en.json",
-  "facts_ar": "facts/facts_ar.json"
+  "version": "1.0.0",
+  "updated_at": "2026-06-14",
+  "files": {
+    "facts_en": "facts/facts_en.json",
+    "facts_ar": "facts/facts_ar.json"
+  },
+  "facts": {
+    "total": 52,
+    "frequency": "weekly"
+  }
 }
